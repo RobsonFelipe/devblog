@@ -16,7 +16,7 @@ module.exports = {
   },
   socialRobson: {
     github: 'https://github.com/RobsonFelipe',
-  },
+  }, 
   pathPrefix: '/devblog',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
 };
