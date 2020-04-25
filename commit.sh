@@ -1,3 +1,3 @@
 git add .
-git commit -m "Teste padrão"
+git commit -m "Teste2 padrão"
 git push
