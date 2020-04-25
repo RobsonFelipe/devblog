@@ -13,6 +13,9 @@ function Footer({ config }) {
   return (
     <Container>
       <Wrapper>
+      {userConfig.showHeaderImage && (
+          <HeaderImage/>
+        )}
         <H2><Link to="/config.js">{dev1}</Link></H2>
         {socialLeo &&
           <Social
