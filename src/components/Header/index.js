@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Header({ config }) {
-  const { author, description, socialLeo, socialPedro, socialRobson } = config;
+  const { author, dev2, dev3, description, socialLeo, socialPedro, socialRobson } = config;
 
   return (
     <Container>
