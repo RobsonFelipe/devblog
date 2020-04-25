@@ -5,7 +5,6 @@ import '../global-styles';
 import userConfig from '../../config';
 
 import Header from '../components/Header';
-import Footer from '../components/Footer'
 import GlobalStyle from '../global-styles';
 
 class Template extends React.Component {
@@ -16,7 +15,6 @@ class Template extends React.Component {
         <GlobalStyle />
         <Header config={userConfig} />
         {children}
-        <Footer></Footer>
       </div>
     );
   }
