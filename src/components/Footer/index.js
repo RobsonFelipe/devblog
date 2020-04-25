@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Footer({ config }) {
-  const { author, dev2, dev3, socialLeo, socialRobson, SocialPedro } = config;
+  const { author, dev2, dev3, socialLeo, socialRobson, socialPedro } = config;
 
   return (
     <Container>
