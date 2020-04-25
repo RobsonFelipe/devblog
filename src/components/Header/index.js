@@ -10,44 +10,35 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Header({ config }) {
-  const { author, dev2, dev3, description, socialLeo, socialPedro, socialRobson } = config;
+  const { author, dev1, dev2, dev3, description, socialLeo, socialPedro, socialRobson } = config;
 
   return (
     <Container>
       <Wrapper>
-        {userConfig.showHeaderImage && (
+      <H1><Link to="/">{author}</Link></H1>
+      <P>{description}</P>
+      {userConfig.showHeaderImage && (
           <HeaderImage/>
         )}
-        <H1><Link to="/">{author}</Link></H1>
-        <P>{description}</P>
+      </Wrapper>
+        <H1><Link to="/">{dev1}</Link></H1>
         {socialLeo &&
           <Social
             github={socialLeo.github}
           />
         }
-      </Wrapper>
-      <Wrapper>
-        {userConfig.showHeaderImage && (
-          <HeaderImage/>
-        )}
         <H1><Link to="/">{dev2}</Link></H1>
         {socialPedro &&
           <Social
             github={socialPedro.github}
           />
         }
-      </Wrapper>
-      <Wrapper>
-        {userConfig.showHeaderImage && (
-          <HeaderImage/>
-        )}
         <H1><Link to="/">{dev3}</Link></H1>
         {socialRobson &&
           <Social
             github={socialRobson.github}
           />
         }
-      </Wrapper>
     </Container> 
   );
 }
