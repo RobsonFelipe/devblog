@@ -19,7 +19,7 @@ import Share from '../components/Share';
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
-    const author = get(this.props, 'data.site.siteMetadata.author1');
+    const author = get(this.props, 'data.site.siteMetadata.author');
     const { previous, next } = this.props.pageContext;
 
     let url = '';
@@ -84,7 +84,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        author1
+        author
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
