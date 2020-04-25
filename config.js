@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Blog PI II', // Required
   author: 'Blog PI II',
-  dev1: 'Leonardo',
+  dev1: 'Leonardo Lima',
   dev2: 'Pedro Rocha',
   dev3: 'Robson Souza', // Required
   description: 'Neste Blog estaremos fazendo um resumo do que foi utilizado para contruir este site bem como fazer uma breve apresentação dos participantes.',
