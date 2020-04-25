@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Footer({ config }) {
-  const { author, dev2, dev3, socialLeo, socialRobson, socialPedro } = config;
+  const { author, socialLeo, socialRobson, socialPedro } = config;
 
   return (
     <Container>
@@ -21,13 +21,13 @@ function Footer({ config }) {
             github={socialLeo.github}
           />
         }
-        <H1><Link to="/">{dev2}</Link></H1>
+        <H1><Link to="/">{author}</Link></H1>
         {socialPedro &&
           <Social
             github={socialPedro.github}
           />
         }
-        <H1><Link to="/">{dev3}</Link></H1>
+        <H1><Link to="/">{author}</Link></H1>
         {socialRobson &&
           <Social
             github={socialRobson.github}
