@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Header({ config }) {
-  const { author, description, socialLeo } = config;
+  const { author, description, socialLeo, socialPedro, socialRobson } = config;
 
   return (
     <Container>
@@ -23,6 +23,28 @@ function Header({ config }) {
         {socialLeo &&
           <Social
             github={socialLeo.github}
+          />
+        }
+      </Wrapper>
+      <Wrapper>
+        {userConfig.showHeaderImage && (
+          <HeaderImage/>
+        )}
+        <H1><Link to="/">{dev2}</Link></H1>
+        {socialPedro &&
+          <Social
+            github={socialPedro.github}
+          />
+        }
+      </Wrapper>
+      <Wrapper>
+        {userConfig.showHeaderImage && (
+          <HeaderImage/>
+        )}
+        <H1><Link to="/">{dev3}</Link></H1>
+        {socialRobson &&
+          <Social
+            github={socialRobson.github}
           />
         }
       </Wrapper>
