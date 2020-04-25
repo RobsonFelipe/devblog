@@ -1,6 +1,8 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Blog PI II', // Required
+  title: 'Blog PI II', // Required
+  author1: 'Leonardo Lima',
+  author2: 'Pedro Rocha',
+  author3: 'Robson Souza', // Required
   description: 'Neste Blog estaremos fazendo um resumo do que foi utilizado para contruir este site bem como fazer uma breve apresentação dos participantes.',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
@@ -8,19 +10,12 @@ module.exports = {
   postsPerPage: 5, // Required
   socialLeo: {
     github: 'https://github.com/LeonardoRochaLima',
-    linkedin: 'https://www.linkedin.com/in/leonardo-vin%C3%ADcius-r-7ba1a6118/',
   },
   socialPedro: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    github: 'https://github.com/pedrofdr01',
   },
   socialRobson: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    github: 'https://github.com/RobsonFelipe',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
