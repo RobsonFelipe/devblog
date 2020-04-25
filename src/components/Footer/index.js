@@ -10,7 +10,7 @@ import Link from './Link';
 import Wrapper from './Wrapper';
 
 function Footer({ config }) {
-  const { author, description, socialLeo } = config;
+  const { dev2, description, socialLeo } = config;
 
   return (
     <Container>
@@ -18,11 +18,11 @@ function Footer({ config }) {
         {userConfig.showHeaderImage && (
           <HeaderImage/>
         )}
-        <H1><Link to="/">{author}</Link></H1>
+        <H1><Link to="/">{dev2}</Link></H1>
         <P>{description}</P>
-        {socialLeo &&
+        {socialPedro &&
           <Social
-            github={socialLeo.github}
+            github={socialPedro.github}
           />
         }
       </Wrapper>
