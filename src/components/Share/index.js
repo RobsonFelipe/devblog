@@ -10,7 +10,7 @@ function Share({ title, url }) {
   return (
     <Wrapper>
       <H2>Contato</H2>
-      <ContactLink href={github} target="_blank" rel="noopener">
+    <ContactLink href={`https://github.com/LeonardoRochaLima`} target="_blank" rel="noopener">
         <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
