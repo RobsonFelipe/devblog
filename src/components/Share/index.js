@@ -9,13 +9,8 @@ function Share({ title, url }) {
   const text = encodeURI(title);
   return (
     <Wrapper>
-      <H2>Share This Post</H2>
-      <ContactLink
-        href={`https://github.com/LeonardoRochaLima`}
-        target="_blank"
-        aria-label="Test"
-        rel="noopener"
-      >
+      <H2>Contato</H2>
+      <ContactLink href={github} target="_blank" rel="noopener">
         <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
