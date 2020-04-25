@@ -23,7 +23,6 @@ function Header({ config }) {
         {socialLeo &&
           <Social
             github={socialLeo.github}
-            linkedin={socialLeo.linkedin}
           />
         }
       </Wrapper>

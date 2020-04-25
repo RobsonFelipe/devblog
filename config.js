@@ -8,7 +8,7 @@ module.exports = {
   postsPerPage: 5, // Required
   socialLeo: {
     github: 'https://github.com/LeonardoRochaLima',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    linkedin: 'https://www.linkedin.com/in/leonardo-vin%C3%ADcius-r-7ba1a6118/',
   },
   socialPedro: {
     website: 'https://ryanfitzgerald.ca',
