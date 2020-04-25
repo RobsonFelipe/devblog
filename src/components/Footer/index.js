@@ -38,4 +38,4 @@ function Footer({ config }) {
   );
 }
 
-export default Header;
+export default Footer;
