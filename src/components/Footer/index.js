@@ -24,7 +24,7 @@ function Footer({ config }) {
         <H1><Link to="/">{dev2}</Link></H1>
         {socialPedro &&
           <Social
-            github={SocialPedro.github}
+            github={socialPedro.github}
           />
         }
         <H1><Link to="/">{dev3}</Link></H1>
