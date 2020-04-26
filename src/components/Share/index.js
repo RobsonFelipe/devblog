@@ -9,7 +9,7 @@ function Share({ title, url }) {
   const text = encodeURI(title);
   return (
     <Wrapper>
-      <H2>Share This Post</H2>
+      <H2>Compatilhe esse Post</H2>
       <ShareButton
         href={`https://www.facebook.com/sharer/sharer.php?u=${encodedURL}`}
         target="_blank"
