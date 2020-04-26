@@ -10,7 +10,7 @@ date: "2020-04-05"
 
 Leonardo Lima, Londrinense, 21 anos, cursando Ciência da Computação - UNIFIL, tem aprofundado conhecimento em: JAVA, Oracle Database, HTML, CSS, JavaScript, entre outras. Trabalha no Núcleo de Práticas em Informática da Unifil, e faz homologação de sistemas para o governo.
 
-[![Foo](https://github.com/LeonardoRochaLima)](./download.png)
+![Icone do GitHub](./download.png)
 
 ### Robson Souza <h3>
 ![Foto do Robson](./robson.png)
