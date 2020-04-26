@@ -21,4 +21,4 @@ const ShareButton = styled.a`
   }
 `;
 
-export default ContactLink;
+export default ShareButton;
