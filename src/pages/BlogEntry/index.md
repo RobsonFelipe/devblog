@@ -1,6 +1,6 @@
 ---
 title: Blog Entry
-date: "2020-04-05"
+date: "05-04-2020"
 ---
 
 ## Blog <h2>

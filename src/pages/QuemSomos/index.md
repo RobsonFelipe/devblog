@@ -1,6 +1,6 @@
 ---
 title: Quem somos
-date: "2020-04-05"
+date: "2020-04-20"
 ---
 
 ## Alunos responsáveis pelo desenvolvimento do site <h2> 
