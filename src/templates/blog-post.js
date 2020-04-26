@@ -21,7 +21,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark;
     const author = get(this.props, 'data.site.siteMetadata.author');
     const { previous, next } = this.props.pageContext;
-    const { socialLeo } = config;
+    const socialLeo = get(this.props, 'data.site.siteMetadata.socialLeo')
 
     let url = '';
     if (typeof window !== `undefined`) {
