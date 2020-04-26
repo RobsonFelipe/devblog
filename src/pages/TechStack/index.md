@@ -1,7 +1,7 @@
 ---
 title: Tech Stack
 date: "2020-03-26"
-
+featuredImage: ''
 ---
 
 Bem vindo ao nosso blog da materia Projeto Interdisciplinar.
