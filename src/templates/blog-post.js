@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import get from 'lodash/get';
 import React from 'react';
 
-import userConfig from '../../config';
+import userConfig from '../../config'; 
 
 import Layout from './layout';
 
