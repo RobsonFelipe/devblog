@@ -10,7 +10,7 @@ const Wrapper = styled.div`
 function NotFound() {
   return (
     <Wrapper>
-      <H2>Desculpa, página não encontrada.</H2>
+      <H2>Desculpe, página não encontrada.</H2>
     </Wrapper>
   );
 }
