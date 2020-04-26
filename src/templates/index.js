@@ -44,6 +44,7 @@ const IndexPage = ({ pageContext }) => {
           previousUrl={previousUrl}
         />
       </Container>
+      
     </Layout>
   );
 };
