@@ -2,7 +2,7 @@
 title: Blog Entry
 date: "05-04-2020"
 ---
-
+ 
 ## Blog <h2>
 
 Este nosso blog é um projeto que faz parte da disciplina de projeto interdiciplinar do segundo ano do curso de Ciência da Computação da instituição Unifil. 
