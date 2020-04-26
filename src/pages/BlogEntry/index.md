@@ -8,7 +8,7 @@ date: "2020-04-05"
 Este nosso blog é um projeto que faz parte da disciplina de projeto interdiciplinar do segundo ano do curso de Ciência da Computação da instituição Unifil. 
 Essa matéria tem como objetivo, unir o aprendizado das outras matérias do curso e fazendo com que pratiquemos atribuições e atividades de programação Web em geral.
 
-<cite> 20/04/2020 - Pedro Rocha <cite>
+<cite> 20/04/2020 - Pedro Rocha<cite>
 
 ## A importância do "Quem Somos" <h2>
 
