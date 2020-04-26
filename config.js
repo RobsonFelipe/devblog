@@ -4,7 +4,7 @@ module.exports = {
   dev1: 'Leonardo Lima',
   dev2: 'Pedro Rocha',
   dev3: 'Robson Souza', // Required
-  description: 'Neste Blog estaremos fazendo um resumo do que foi utilizado para contruir este site bem como fazer uma breve apresentação dos participantes.',
+  description: 'Neste Blog estaremos fazendo um resumo do que foi utilizado para construir este site, bem como fazer uma breve apresentação dos participantes.',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
