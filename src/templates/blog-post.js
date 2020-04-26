@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 import get from 'lodash/get';
 import React from 'react';
 
-import userConfig from '../../config'; 
+import userConfig from '../../config';
 
 import Layout from './layout';
 
@@ -14,14 +14,13 @@ import Card from '../components/Card';
 import Container from '../components/Container';
 import FeaturedImage from '../components/FeaturedImage';
 import PageNav from '../components/PageNav';
-
+import Share from '../components/Share';
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const author = get(this.props, 'data.site.siteMetadata.author');
     const { previous, next } = this.props.pageContext;
-    const socialLeo = get(this.props, 'data.site.siteMetadata.socialLeo')
 
     let url = '';
     if (typeof window !== `undefined`) {
@@ -54,11 +53,9 @@ class BlogPostTemplate extends React.Component {
             <Article>
               <div dangerouslySetInnerHTML={{ __html: post.html }} />
             </Article>
-            {socialLeo &&
-              <Social
-               github={socialLeo.github}
-              />
-            }
+            {userConfig.showShareButtons && (
+              <Share url={url} title={post.frontmatter.title} />
+            )}
           </Card>
 
           <PageNav>

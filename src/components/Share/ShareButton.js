@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const ContactLink = styled.a`
+const ShareButton = styled.a`
   border: 1px solid #bfc8d2;
   border-radius: 15px;
   display: inline-block;
