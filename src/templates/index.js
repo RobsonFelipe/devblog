@@ -19,7 +19,7 @@ const IndexPage = ({ pageContext }) => {
       <Container>
         <Helmet
           title={`${userConfig.title} | ${userConfig.author}`}
-          htmlAttributes={{ lang: 'en' }}
+          htmlAttributes={{ lang: 'pt-br' }}
         >
           <meta
             name="description"
@@ -44,7 +44,7 @@ const IndexPage = ({ pageContext }) => {
           previousUrl={previousUrl}
         />
       </Container>
-      
+
     </Layout>
   );
 };

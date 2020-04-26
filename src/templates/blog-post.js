@@ -32,7 +32,7 @@ class BlogPostTemplate extends React.Component {
         <Container>
           <Helmet
             title={`${post.frontmatter.title} | ${author}`}
-            htmlAttributes={{ lang: 'en' }}
+            htmlAttributes={{ lang: 'pt-br' }}
           >
             <meta
               name="description"
