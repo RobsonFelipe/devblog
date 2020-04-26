@@ -15,6 +15,7 @@ Leonardo Lima, Londrinense, 21 anos, cursando Ciência da Computação - UNIFIL,
 
 Robson Souza, Cambeense, 25 anos, cursando Ciência da Computação - UniFil,
 possuo conhecimento as tecnologia: JS, HTML, CSS, Angular,Android, IOS, Oracle DB, MongoDB. Atuando como Desenvolvedor  Java - Atos
+![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "Olha a banana dançando!")
 
 ### Pedro Rocha <h3>
 ![Foto do Pedro](./pedro.png)
