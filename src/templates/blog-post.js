@@ -15,12 +15,14 @@ import Container from '../components/Container';
 import FeaturedImage from '../components/FeaturedImage';
 import PageNav from '../components/PageNav';
 import Share from '../components/Share';
+import Social from '../Social';
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const author = get(this.props, 'data.site.siteMetadata.author');
     const { previous, next } = this.props.pageContext;
+    const {socialLeo} = config;
 
     let url = '';
     if (typeof window !== `undefined`) {
@@ -56,6 +58,11 @@ class BlogPostTemplate extends React.Component {
             {userConfig.showShareButtons && (
               <Share url={url} title={post.frontmatter.title} />
             )}
+            {socialLeo &&
+             <Social
+              github={socialLeo.github}
+            />
+            }
           </Card>
 
           <PageNav>
