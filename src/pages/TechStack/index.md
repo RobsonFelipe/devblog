@@ -19,10 +19,5 @@ Bem vindo ao nosso blog da materia Projeto Interdisciplinar.
 
 
 
-![JS](./js.png)
-![HTML](./html.png)
-![CSS](./css.png)
-![Node.JS](./node.png)
-![Gatsby](./gatsby.png)
-![Netlify](./netlify.jpg)
+![JS](./techStackProjeto.JPG)
 
