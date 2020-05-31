@@ -15,7 +15,7 @@ Segue o link do jogo caso queira conferir o game em ação.
 
 Veja também, por dentor do game como a lógica funciona. É utilizado uma lógica simples de programação em blocos.
 
-![Fotos dos blocos](./Capturar.PNG)
+![Fotos dos blocos](./Capturar.png)
 
 <cite> 12/05/2020 - Leonardo Lima <cite>
 
@@ -33,8 +33,8 @@ Neste projeto, simulamos a execução de comandos simples para utilização de t
 
 Jogo em Python.
 
-![codigo game](./gameLabirinto.PNG)
-![jogo python rodando](./jogopython.PNG)
+![codigo game](./gameLabirinto.png)
+![jogo python rodando](./jogopython.png)
 
 
 <cite> 21/05/2020 - Robson Souza <cite>
