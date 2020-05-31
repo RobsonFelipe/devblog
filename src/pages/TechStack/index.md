@@ -18,6 +18,3 @@ Bem vindo ao nosso blog da materia Projeto Interdisciplinar.
 *   Netlifyg
 
 
-
-![JS](./techStackProjeto.JPG)
-
