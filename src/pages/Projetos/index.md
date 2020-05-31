@@ -33,8 +33,8 @@ Neste projeto, simulamos a execução de comandos simples para utilização de t
 
 Jogo em Python.
 
-![codigo game](./gameLabirinto.png)
-![jogo python rodando](./jogopython.png)
+![codigo game](./gameLabirinto.PNG)
+![jogo python rodando](./jogopython.PNG)
 
 
 <cite> 21/05/2020 - Robson Souza <cite>
