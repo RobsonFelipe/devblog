@@ -4,6 +4,7 @@ date: "2020-05-27"
 ---
  
 ## Game Asteroid - Scratch <h2>
+
 ![Foto do Jogo Rodando](./jogoscratch.png)
 
 Este foi um jogo desenvolvido dentro de sala de aula, em uma matéria prática de desenvolvimento e prática de lógica de programação no primeiro ano do curso de Ciência da Computação.
@@ -13,7 +14,8 @@ Segue o link do jogo caso queira conferir o game em ação.
 [Asteroid by Leonardo Lima](https://scratch.mit.edu/projects/105882236/)
 
 Veja também, por dentor do game como a lógica funciona. É utilizado uma lógica simples de programação em blocos.
-![Foto do Jogo Rodando](./Capturar.png)
+
+![Fotos dos blocos](./Capturar.png)
 
 <cite> 12/05/2020 - Leonardo Lima <cite>
 
