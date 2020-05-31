@@ -15,7 +15,7 @@ Segue o link do jogo caso queira conferir o game em ação.
 
 Veja também, por dentor do game como a lógica funciona. É utilizado uma lógica simples de programação em blocos.
 
-![Fotos dos blocos](./Capturar.png)
+![Fotos dos blocos](./Capturar.PNG)
 
 <cite> 12/05/2020 - Leonardo Lima <cite>
 
