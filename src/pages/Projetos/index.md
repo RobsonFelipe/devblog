@@ -28,3 +28,13 @@ foto
 Neste projeto, simulamos a execução de comandos simples para utilização de terminais de acesso, assim como no CMD, algumas funções simples foram aplicadas para entender a lógica destes terminais.
 
 <cite> 17/05/2020 - Robson Souza <cite>
+
+## Game Labirinto - Python <h2>
+
+Jogo em Python.
+
+![codigo game](./gameLabirinto.png)
+![jogo python rodando](./jogopython.png)
+
+
+<cite> 21/05/2020 - Robson Souza <cite>
