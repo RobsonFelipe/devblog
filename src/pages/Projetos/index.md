@@ -28,3 +28,19 @@ Projeto de desenvolvimento de um terminal bash, assim como o mais conhecido Prom
 Neste projeto, simulamos a execução de comandos simples para utilização de terminais de acesso, assim como no CMD, algumas funções simples foram aplicadas para entender a lógica destes terminais.
 
 <cite> 17/05/2020 - Robson Souza <cite>
+
+## Game Labirinto - Python <h2>
+
+Um projeto também super interessante feito por nossos integrantes é o jogo labirinto, feito em Python. Ele consiste basicamente numa plataforma comum onde o usuário tem que chegar até a bandeira de chegada, passando por todo o percurso e atingir o menor número de passos para isso.
+
+Este é o mapa do jogo.
+
+![jogo python rodando](jogopython2.png)
+
+Nele podemos, acessando as teclas de cima, baixo, direita e esquerda, caminhar pelo mapa condizindo personagem até o destino desejado.
+
+Olha só como funciona, em Python, a configuração das teclas de movimentação do personagem.
+
+![codigo game](gameLabirinto2.PNG)
+
+<cite> 21/05/2020 - Pedro Rocha <cite>
