@@ -23,7 +23,7 @@ Veja também, por dentor do game como a lógica funciona. É utilizado uma lógi
 
 Projeto de desenvolvimento de um terminal bash, assim como o mais conhecido Prompt de Comando do Windows. 
 
-foto
+![JTerm](./JTerm.PNG)
 
 Neste projeto, simulamos a execução de comandos simples para utilização de terminais de acesso, assim como no CMD, algumas funções simples foram aplicadas para entender a lógica destes terminais.
 
