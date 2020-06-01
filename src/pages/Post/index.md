@@ -17,6 +17,8 @@ A plataforma foi feita para trabalhar em conjunto com o Gatsby e tem toda sua co
 
 Fizemos o cadastro do DNS na plataforma Netlify porém não fizemos o cadastro do registro MX na plataforma Google Cloud Console, devido à questões monetárias.
 
+![mx](./CadastroMX.PNG)
+
 ## Construir página “Projetos pessoais” <h3>
 
 Contruimos, e está acessível na página inicial, a página "Projetos Pessoais". Nela contamos um pouco sobre nossos projetos na faculdade e na vida, com o intuito de mostrar aos nossos visitantes o que a tecnologia e conhecimento podem proporcionar, mostrar que as coisas não são tão complicadas como aparentam ser.
