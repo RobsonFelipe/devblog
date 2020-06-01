@@ -11,6 +11,8 @@ Neste post, trabalharemos e falaremos sobre a atividade a ser entregue no dia 31
 
 Fizemos a locação do domínio www.blogpiiunifil.com pela plataforma Netlify. Com ela conseguimos deixar o site no ar por um ano, por uma taxa pequena.
 
+![NEtlify](./PlataformaNetlify.PNG)
+
 A plataforma foi feita para trabalhar em conjunto com o Gatsby e tem toda sua configuração bem sofisticada para tratar de um serviço WEB. O que nos ajudou bastante.
 
 ## Configurar registro MX para encaminhar emails direcionados a webmaster@nomedodominiocomprado.xyz a um email pessoal qualquer <h3>
